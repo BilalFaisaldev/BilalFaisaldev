@@ -1,68 +1,96 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=500&color=2C7DA0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bilal+Faisal+Arain;Full-Stack+Web+Developer;QA+Tester+%7C+Laravel+Expert;PHP+%7C+JavaScript+Enthusiast" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">
+  💻 Building Robust Web Applications | 🧪 Ensuring Quality Code | 🚀 Laravel & PHP Specialist
+</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&background=0d1117&height=200&section=header&text=Bilal%20Faisal%20Arain&fontSize=50&animation=fadeIn&fontColor=38bdf8" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=bilalfaisaldev&label=Profile%20Views&color=2C7DA0&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/bilalfaisaldev?tab=followers">
+    <img src="https://img.shields.io/github/followers/bilalfaisaldev?label=Followers&style=flat-square&color=2C7DA0" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/bilalfaisaldev">
+    <img src="https://img.shields.io/github/stars/bilalfaisaldev?label=Stars&style=flat-square&color=FFB703" alt="GitHub Stars" />
+  </a>
 </p>
 
+---
+
+### 🚀 Currently Working At
+
 <p align="center">
-  <a href="https://linkedin.comin/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://staging.codecreatives.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CodeCreatives_Agency-2C7DA0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="CodeCreatives" />
   </a>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
   <a href="mailto:bilalfaisalarain@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/bilal.faisalarain" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://github.com/bilalfaisaldev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
-
----
-
-### 💫 About Me
-
-I am a passionate **Full-Stack Web Developer** and **QA Tester** specializing in building robust, scalable, and high-quality web applications. With a strong expertise in the **Laravel & PHP** ecosystem, I love turning complex problems into elegant, clean code.
-
-* 🏢 Currently working at **[CodeCreatives Agency](https://staging.codecreatives.com/)**
-* ⚙️ Focusing on writing clean, maintainable code and ensuring top-notch software quality.
-* 🚀 Always open to collaborating on open-source projects or interesting web applications.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-With a solid foundation in both backend and frontend development, here are the technologies I work with:
-
-| Category | Technologies |
-| :--- | :--- |
-| **Backend & Core** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=flat-square&logo=firebase&logoColor=black) |
-| **Tools & DevOps** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Other Skills** | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=white) |
-
----
-
-### 🧠 Current Learning Curve
-
-I believe in continuous growth. Right now, I am expanding my skills in:
-* 🚀 **Advanced Laravel Systems** (Architecture, Performance Tuning, & Microservices)
-* ⚛️ **Modern Frontend Frameworks** (Vue.js & React)
-* ☁️ **DevOps Infrastructure** (Docker Containers & AWS Cloud Services)
-
----
-
-### 📊 Git Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalfaisaldev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=38bdf8" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalfaisaldev&hide_border=true&theme=tokyonight&ring=38bdf8&fire=38bdf8" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalfaisaldev&layout=compact&hide_border=true&theme=tokyonight&title_color=38bdf8" width="50%" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,bootstrap,tailwind,js,html,css,mysql,mongodb,firebase,git,github,postman,linux,ai,ps,unity" alt="Skills" />
 </p>
 
 ---
 
+### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&background=0d1117&height=100&section=footer" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalfaisaldev&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=2C7DA0&icon_color=FFB703" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalfaisaldev&hide_border=true&theme=radical&background=0D1117&stroke=2C7DA0&ring=FFB703&fire=FFB703" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalfaisaldev&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=2C7DA0" width="45%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bilalfaisaldev&theme=radical&no-frame=true&row=2&column=3" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalfaisaldev&theme=react-dark&bg_color=0D1117&color=2C7DA0&line=FFB703&point=FFFFFF&hide_border=true" width="95%" />
+</p>
+
+---
+
+### 💡 What I'm Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel_Advanced-2C7DA0?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js_&_React-61DAFB?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_&_AWS-232F3E?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C7DA0&height=100&section=footer" width="100%" />
 </p>
