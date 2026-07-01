@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=500&color=2C7DA0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bilal+Faisal+Arain;Full-Stack+Web+Developer;QA+Tester+%7C+Laravel+Expert;PHP+%7C+JavaScript+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bilal+Faisal+Arain;Full-Stack+Web+Developer;QA+Tester+%7C+Laravel+Expert;PHP+%7C+JavaScript+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -7,12 +7,12 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bilalfaisaldev&label=Profile%20Views&color=2C7DA0&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bilalfaisaldev&label=Profile%20Views&color=00B4D8&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/bilalfaisaldev?tab=followers">
-    <img src="https://img.shields.io/github/followers/bilalfaisaldev?label=Followers&style=flat-square&color=2C7DA0" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/bilalfaisaldev?label=Followers&style=flat-square&color=00B4D8" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/bilalfaisaldev">
-    <img src="https://img.shields.io/github/stars/bilalfaisaldev?label=Stars&style=flat-square&color=FFB703" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/bilalfaisaldev?label=Stars&style=flat-square&color=F77F00" alt="GitHub Stars" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://staging.codecreatives.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CodeCreatives_Agency-2C7DA0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="CodeCreatives" />
+    <img src="https://img.shields.io/badge/CodeCreatives_Agency-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="CodeCreatives" />
   </a>
 </p>
 
@@ -55,12 +55,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalfaisaldev&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=2C7DA0&icon_color=FFB703" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalfaisaldev&hide_border=true&theme=radical&background=0D1117&stroke=2C7DA0&ring=FFB703&fire=FFB703" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalfaisaldev&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00B4D8&icon_color=F77F00&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalfaisaldev&hide_border=true&theme=github-dark&background=0D1117&stroke=00B4D8&ring=F77F00&fire=F77F00&currStreakLabel=00B4D8" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalfaisaldev&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=2C7DA0" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalfaisaldev&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" width="45%" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bilalfaisaldev&theme=radical&no-frame=true&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bilalfaisaldev&theme=onedark&no-frame=true&row=2&column=3" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalfaisaldev&theme=react-dark&bg_color=0D1117&color=2C7DA0&line=FFB703&point=FFFFFF&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalfaisaldev&theme=react-dark&bg_color=0D1117&color=00B4D8&line=F77F00&point=FFFFFF&hide_border=true" width="95%" />
 </p>
 
 ---
@@ -84,7 +84,7 @@
 ### 💡 What I'm Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel_Advanced-2C7DA0?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel_Advanced-00B4D8?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js_&_React-61DAFB?style=flat-square&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker_&_AWS-232F3E?style=flat-square&logo=docker&logoColor=white" />
 </p>
@@ -92,5 +92,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C7DA0&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=100&section=footer" width="100%" />
 </p>
